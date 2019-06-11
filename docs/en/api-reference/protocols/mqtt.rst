@@ -19,7 +19,7 @@ Application Example
 -------------------
 
     * :example:`protocols/mqtt/tcp`: MQTT over tcp, default port 1883
-    * :example:`protocols/mqtt/ssl`:  MQTT over tcp, default port 8883
+    * :example:`protocols/mqtt/ssl`:  MQTT over ssl, default port 8883
     * :example:`protocols/mqtt/ws`: MQTT over Websocket, default port 80
     * :example:`protocols/mqtt/wss`: MQTT over Websocket Secure, default port 443
 
