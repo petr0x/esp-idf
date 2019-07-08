@@ -80,7 +80,7 @@ To organize this process the driver provides a container, called a "command link
 
 **Master Write**
 
-An example of building a commend link for I2C master sending n bytes to slave is shown below:
+An example of building a command link for I2C master sending n bytes to slave is shown below:
 
 .. blockdiag::
     :scale: 75
